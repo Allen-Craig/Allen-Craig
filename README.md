@@ -1,11 +1,14 @@
 ### Hello world, I'm Allen 👋
+## I'm a Husband, Father, Developer, and Vetran that enjoys writing code
 
-- 📫 How to reach me: ...
-[![pluralsight](https://img.shields.io/website?label=pluralsight.com&style=for-the-badge&url=https%3A%2F%2Fpluralsight.com)](https://app.pluralsight.com/profile/TheMightyCraig)
-[![pluralsight](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com)](www.linkedin.com/in/allen-c-036693184)
+### Connect with me:
+[<img align="left" alt="TheMightyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TheMightyCraig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
+[<img align="left" alt="TheMightyCraig | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
 - 🌱 I’m currently learning Java, MySQL, JavaScript, and a whole lot more!
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to make my debut into the world of development.
 - ⚡ Fun fact: When I am not in front of a screen I enjoy hikes and being outdoors in the mountains.
 
@@ -25,10 +28,7 @@
 
 </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TheMightyCraig GitHub Stats" src="https://github-readme-stats.TheMightyCraig.vercel.app/api?username=TheMightyCraig&show_icons=true&hide_border=true" />
-
-</details>
-
+[pluralsight]: https://app.pluralsight.com/profile/TheMightyCraig
+[youtube]: https://www.youtube.com/channel/UCCnIYZl63t0yWPRST99OvNA
+[linkedin]: www.linkedin.com/in/allen-c-036693184
