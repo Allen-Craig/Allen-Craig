@@ -1,5 +1,5 @@
 ## Hello world, I'm Allen 👋
-### I'm a Husband, Father, Developer, and Vetran that enjoys writing code
+### I'm a Husband, Father, and Vetran that enjoys writing code
 
 ### Connect with me:
 [<img align="left" alt="TheMightyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
