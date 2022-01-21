@@ -1,13 +1,12 @@
 ### Hello world, I'm Allen 👋
 
-
+- 📫 How to reach me: ...
 [![pluralsight](https://img.shields.io/website?label=pluralsight.com&style=for-the-badge&url=https%3A%2F%2Fpluralsight.com)](https://app.pluralsight.com/profile/TheMightyCraig)
-
+[![llinkedin](https://img.shields.io/website?label=likkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](www.linkedin.com/in/allen-c-036693184)
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
 - 🌱 I’m currently learning Java, MySQL, JavaScript, and a whole lot more!
 - 👯 I’m looking to make my debut into the world of development.
-- 📫 How to reach me: ...
 - ⚡ Fun fact: When I am not in front of a screen I enjoy hikes and being outdoors in the mountains.
 
 
