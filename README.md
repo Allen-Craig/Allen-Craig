@@ -6,6 +6,8 @@
 [<img align="left" alt="TheMightyCraig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
 [<img align="left" alt="TheMightyCraig | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
+
+
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
 - 🌱 I’m currently learning Java, MySQL, JavaScript, and a whole lot more!
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -31,4 +33,4 @@
 
 [pluralsight]: https://app.pluralsight.com/profile/TheMightyCraig
 [youtube]: https://www.youtube.com/channel/UCCnIYZl63t0yWPRST99OvNA
-[linkedin]: www.linkedin.com/in/allen-c-036693184
+[linkedin]: https://www.linkedin.com/in/allen-c-036693184
