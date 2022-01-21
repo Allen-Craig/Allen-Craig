@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.TheMightyCraig.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.TheMightyCraig.vercel.app/api?username=TheMightyCraig&show_icons=true&hide_border=true" />
 
 </details>
 
