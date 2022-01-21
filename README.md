@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: ...
 [![pluralsight](https://img.shields.io/website?label=pluralsight.com&style=for-the-badge&url=https%3A%2F%2Fpluralsight.com)](https://app.pluralsight.com/profile/TheMightyCraig)
-[![llinkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](www.linkedin.com/in/allen-c-036693184)
+[![linkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com/feed/)](www.linkedin.com/in/allen-c-036693184)
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
 - 🌱 I’m currently learning Java, MySQL, JavaScript, and a whole lot more!
