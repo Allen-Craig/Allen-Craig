@@ -1,4 +1,4 @@
-## Hello world, I'm Allen 👋
+## Hello World, I'm Allen 👋
 ### Connect with me:
 [<img align="left" alt="TheMightyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TheMightyCraig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java, MySQL, JavaScript, and a whole lot more!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to make my debut into the world of development.
-- ⚡ Fun fact: When I am not in front of a screen I enjoy hikes and being outdoors in the mountains.
+- ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
 
 
 
