@@ -4,6 +4,7 @@
 [<img align="left" alt="TheMightyCraig | pluralsight" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
 [<img align="left" alt="TheMightyCraig | YouTube" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
+<br/>
 
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
