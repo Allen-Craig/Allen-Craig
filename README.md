@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
-- 🌱 I’m currently learning Java, MySQL, JavaScript, PHP, and a whole lot more!
+- 🌱 I’m currently learning Java, MySQL, JavaScript, React, PHP, and a whole lot more!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to make my debut into the world of development.
 - ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
@@ -20,12 +20,13 @@
 <p align="center">  
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
  <img alt="MySQL Logo icon" src="https://img.icons8.com/ios-filled/344/mysql-logo.png" lazy="loaded"  height="100"> 
- <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" alt="React premium icon" title="React premium icon" class="loaded">
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
  <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/2974/2974331.svg" alt="Agile premium icon" title="Agile premium icon" class="loaded">
  <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  >
- <!---<img width+"100" height="100" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png" alt="PHP Logo" title="php-logo"> --->
+ <!---CURRENTLY LEARNING THESE LANGUAGES--->
+ <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" alt="React premium icon" title="React premium icon" class="loaded">
+<img width+"100" height="100" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png" alt="PHP Logo" title="php-logo">
  
 
 </p>
