@@ -1,8 +1,8 @@
 ## Hello World, I'm Allen 👋
 ### Connect with me:
-[<img align="left" alt="TheMightyCraig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TheMightyCraig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
-[<img align="left" alt="TheMightyCraig | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="TheMightyCraig | LinkedIn" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TheMightyCraig | pluralsight" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
+[<img align="left" alt="TheMightyCraig | YouTube" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
 
@@ -24,7 +24,7 @@
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
  <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/2974/2974331.svg" alt="Agile premium icon" title="Agile premium icon" class="loaded">
  <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  >
- <img width+"100" height="100" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png" alt="PHP Logo" title="php-logo">
+<img width+"100" height="100" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png" alt="PHP Logo" title="php-logo">
   
 
 </p>
