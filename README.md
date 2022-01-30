@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
-- 🌱 I’m currently learning Java, MySQL, JavaScript, and a whole lot more!
+- 🌱 I’m currently learning Java, MySQL, JavaScript, PHP, and a whole lot more!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to make my debut into the world of development.
 - ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
