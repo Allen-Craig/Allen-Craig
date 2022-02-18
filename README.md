@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
-- 🌱 I’m currently learning Java, MySQL, JavaScript, React, PHP, and a whole lot more!
+- 🌱 I’m currently learning Java, MySQL, JavaScript, React, and a whole lot more!
 - 🥅 2022 Goals: Contribute to and Create more projects on GitHub.
 - 👯 I’m looking to make my debut into the world of development.
 - ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
@@ -29,7 +29,7 @@
  
  <!---CURRENTLY LEARNING THESE LANGUAGES--->
  <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" alt="React premium icon" title="React premium icon" class="loaded">
-<!---<img width+"100" height="100" src="https://adamlangley.com.au/wp-content/uploads/2019/12/php-logo-678x381.png" alt="PHP Logo" title="php-logo">--->
+
  
 
 </p>
