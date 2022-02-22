@@ -25,14 +25,10 @@
  <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/2974/2974331.svg" alt="Agile premium icon" title="Agile premium icon" class="loaded">
  <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  >
  
- 
- 
  <!---CURRENTLY LEARNING THESE LANGUAGES--->
  <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" alt="React premium icon" title="React premium icon" class="loaded">
 
- 
-
-</p>
+ </p>
 
 
 [pluralsight]: https://app.pluralsight.com/profile/TheMightyCraig
