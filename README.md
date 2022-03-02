@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my B.S. in Software Development at GCU
 - 🌱 I’m currently learning Java, MySQL, JavaScript, React, and a whole lot more!
 - 🥅 2022 Goals: Contribute to and Create more projects on GitHub.
-- 👯 I’m looking to make my debut into the world of development.
+- 👯 I’m looking to further my skills as a developer by learning new languages.
 - ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
 
 
