@@ -31,6 +31,8 @@
  </p>
 
 
+
+
 [pluralsight]: https://app.pluralsight.com/profile/TheMightyCraig
 [youtube]: https://www.youtube.com/channel/UCCnIYZl63t0yWPRST99OvNA
 [linkedin]: https://www.linkedin.com/in/allen-craig-036693184/
