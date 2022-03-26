@@ -27,7 +27,6 @@
  
  <!---CURRENTLY LEARNING THESE LANGUAGES--->
  <img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg" alt="React premium icon" title="React premium icon" class="loaded">
-
  </p>
 
 
