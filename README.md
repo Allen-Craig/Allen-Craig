@@ -2,7 +2,7 @@
 ### Connect with me:
 [<img align="left" alt="TheMightyCraig | LinkedIn" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TheMightyCraig | pluralsight" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
-[<img align="left" alt="TheMightyCraig | YouTube" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 <br />
 <br/>
 
