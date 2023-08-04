@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working as a Software Engineer at CSAA Insurance Group, a AAA Insurer.
-- 🌱 I’m currently learning TypeScript, React, and more.
+- 🌱 I’m learning TypeScript, React, and more.
 - 🥅 2023 Goals: Contribute to and Create more projects on GitHub.
 - 👯 I’m looking to further my skills as a developer by learning new languages.
 - ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
@@ -22,14 +22,15 @@
  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" data-src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" alt="Database " title="Database " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/4248/4248443.png 4x">
  <!--- <img alt="MySQL Logo icon" src="https://img.icons8.com/ios-filled/344/mysql-logo.png" lazy="loaded"  height="100"> --->
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
- <img src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" data-src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" alt="Agile " title="Agile " width="1" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3967/3967015.png 4x">
+ <img class="mimg" style="color: rgb(16, 34, 79);" height="100" width="150" src="https://th.bing.com/th/id/OIP.S71_oA3zpscO-Wsp8AKeJAHaDh?w=340&amp;h=166&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7" alt="Image result for pegasystems favicon" data-thhnrepbd="1" data-bm="43">
+ <!--- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100"> ---->
+ <img src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" data-src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" alt="Agile " title="Agile " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3967/3967015.png 4x">
  
- <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  >
+ <!--- <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  > --->
  
  
  <!---CURRENTLY LEARNING THESE LANGUAGES--->
- <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" data-src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="Physics " title="Physics " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1126/1126012.png 4x">
+ <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" data-src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="Physics " title="Physics " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1126/1126012.png 4x"> 
 
 
 
