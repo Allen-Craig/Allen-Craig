@@ -20,7 +20,6 @@
 <p align="center">  
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" data-src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" alt="Database " title="Database " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/4248/4248443.png 4x">
- <!--- <img alt="MySQL Logo icon" src="https://img.icons8.com/ios-filled/344/mysql-logo.png" lazy="loaded"  height="100"> --->
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
  <img class="mimg" style="color: rgb(16, 34, 79);" height="100" width="150" src="https://th.bing.com/th/id/OIP.S71_oA3zpscO-Wsp8AKeJAHaDh?w=340&amp;h=166&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7" alt="Image result for pegasystems favicon" data-thhnrepbd="1" data-bm="43">
  <!--- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100"> ---->
