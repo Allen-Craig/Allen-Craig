@@ -25,11 +25,11 @@
  <!--- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100"> ---->
  <img src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" data-src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" alt="Agile " title="Agile " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3967/3967015.png 4x">
  
- <!--- <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  > --->
- 
- 
  <!---CURRENTLY LEARNING THESE LANGUAGES--->
- <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" data-src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="Physics " title="Physics " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1126/1126012.png 4x"> 
+ <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" data-src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="Physics " title="React" width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1126/1126012.png 4x"> 
+
+
+ 
 
 
 
