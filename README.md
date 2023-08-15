@@ -26,7 +26,7 @@
  <img src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" data-src="https://cdn-icons-png.flaticon.com/128/3967/3967015.png" alt="Agile " title="Agile " width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3967/3967015.png 4x">
  
  <!---CURRENTLY LEARNING THESE LANGUAGES--->
- <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" data-src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="Physics " title="React" width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1126/1126012.png 4x"> 
+ <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" data-src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="React" title="React" width="100" height="100" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1126/1126012.png 4x"> 
 
 
  
