@@ -1,4 +1,4 @@
-## Hello World, I'm Allen 👋
+## Hello World, 👋
 ### Connect with me:
 [<img align="left" alt="TheMightyCraig | LinkedIn" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TheMightyCraig | Pluralsight" height="40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />][pluralsight]
