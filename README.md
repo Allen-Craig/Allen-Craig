@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at CSAA Insurance Group, a AAA Insurer.
 - 🌱 I’m learning TypeScript, React, and more.
-- 🥅 2024 Goals: Work on more React projects.
+- 🥅 2025 Goals: Work on more React projects.
 - 👯 I’m looking to further my skills as a developer by learning new languages.
 - ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
 
