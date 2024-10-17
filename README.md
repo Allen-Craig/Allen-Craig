@@ -7,7 +7,7 @@
 <br/>
 
 
-- 🔭 I’m currently working as a Software Engineer at CSAA Insurance Group, a AAA Insurer.
+- 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m learning TypeScript, React, and more.
 - 🥅 2025 Goals: Work on more React projects.
 - 👯 I’m looking to further my skills as a developer by learning new languages.
