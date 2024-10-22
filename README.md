@@ -7,11 +7,11 @@
 <br/>
 
 
-- 🔭 I’m currently working as a Software Engineer.
+- 🔭 I’m a Software Engineer and Dad.
 - 🌱 I’m learning TypeScript, React, and more.
 - 🥅 2025 Goals: Work on more React projects.
 - 👯 I’m looking to further my skills as a developer by learning new languages.
-- ⚡ Fun fact: When I am not in front of a screen, I enjoy hikes and being outdoors in the mountains.
+- ⚡ Fun fact: When I am not in front of a screen, I enjoy Mountain Biking and being outdoors.
 
 
 
